@@ -1,0 +1,29 @@
+{
+  "name": "digital-logic",
+  "version": "1.0.0",
+  "description": "A sleek and responsive web app that automates **number system conversions** between   **Binary**, **Octal**, **Decimal**, and **Hexadecimal**.   Developed using **HTML**, **CSS**, and **JavaScript** as part of **CAT ONE SPC 2207** coursework.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoyiWycliffe/Number-system.git"
+  },
+  "keywords": [
+    "Number",
+    "system"
+  ],
+  "author": "Dev Group KYU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoyiWycliffe/Number-system/issues"
+  },
+  "homepage": "https://github.com/MoyiWycliffe/Number-system#readme",
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/cli": "^7.4.3",
+    "@capacitor/core": "^7.4.3",
+    "@capacitor/ios": "^7.4.3"
+  }
+}
