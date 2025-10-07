@@ -3,12 +3,13 @@
 **Project Title:** Automation of Number System Conversions  
 **Unit Code:** CAT ONE SPC 2207  
 **Date:** 22/09/2025  
-**Group Members:**  
-1. [Member 1 Name]
-2. [Member 2 Name]  
-3. [Member 3 Name]  
-4. [Member 4 Name]  
-5. [Member 5 Name]  
+**Group Members:** 
+
+1. Moyi Wycliffe Conrat
+2. SIMON MUMO MUSYA 
+3. Beatrice Muhia 
+4. David Omondi Juma  
+5. GISORE MAUTI WILLIAM  
 
 ---
 
