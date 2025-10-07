@@ -10,7 +10,7 @@
 2. **Simon Mumo Musya** — UI/UX Designer  
 3. **Beatrice Muhia** — Documentation & QA  
 4. **David Omondi Juma** — JavaScript Developer  
-5. **Gisore Mauti William** — Tester / Deployment
+5. **Gisore Mauti William PA106/G/21777/24** — Tester / Deployment
 
 ---
 
