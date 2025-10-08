@@ -6,10 +6,10 @@
 
 ## 👥 Group Members
 
-1. **Moyi Wycliffe Conrat** — Project Lead / Developer  
-2. **Simon Mumo Musya** — UI/UX Designer  
-3. **Beatrice Muhia** — Documentation & QA  
-4. **David Omondi Juma** — JavaScript Developer  
+1. **Moyi Wycliffe Conrat PA106/G/21363/24** — Project Lead / Developer  
+2. **Simon Mumo Musya PA106/G/21853/24** — UI/UX Designer  
+3. **Beatrice Muhia PA106/G/21408/24** — Documentation & QA  
+4. **David Omondi Juma PA106/G/22885/24** — JavaScript Developer  
 5. **Gisore Mauti William PA106/G/21777/24** — Tester / Deployment
 
 ---
